@@ -1,0 +1,2 @@
+# ACTIVITY-5-WHILE-LOOP-IN-COMPUTER-PROGRAMMING-JAVA
+Consist of two (2) java problems. The first problem computes for the SALARY of the employee in dollar into n number of iterations until the user entered -1. At the end it will display the sum of all employees' salary. The second problem computes the salary using inputs: hourly rate and hours worked. It will iterates into n number of process until the user entered -1. It will display the sum of all employees' salary at the end of the process.
